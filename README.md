@@ -22,7 +22,8 @@ else:
 	result=z*x*x*y
 x=y
 ```
-
+<hr>
+	  
 <b>OUTPUT:
 
 ```
